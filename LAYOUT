@@ -1,0 +1,21 @@
+EQUIPO: Juan Vazquez Paniagua y Eduardo Campos Manriquez
+
+Considerando el proyecto base que se encuentra en su tablón de Classroom, realizar lo  siguiente en pareja:
+El enlace INICIO deberá mantener al usuario en la misma página
+El enlace a NOSOTROS debe dirigir al usuario a conocer la misión, visión, políticas de la empresa
+El enlace a CLIENTES permitirá al usuario conocer la cartera de clientes (mínimo 5 clientes)
+El enlace a CONTACTO debe dirigir al usuario al formulario de contactos previamente creado en el INICIO (deberá trasladar dicho formulario al apartado de CONTACTO y en ese espacio utilizarlo para otra información relevante de la empresa)
+Consideraciones a evaluar:
+Deberá seleccionar su propia paleta de colores y mantener el estándar en todo el sitio
+Utilizar preload para hacer eficiente el performance del sitio
+Utilizar imágenes, texto, fuentes y más elementos necesarios sin faltar a los derechos de autor
+Deberá ser un sitio responsivo, hacer uso de flex y css grid
+Deberá utilizar las herramientas vistas en clase, mismas que se presentan al final de esta actividad
+Para evaluar la presente actividad deberá hacer entrega únicamente del enlace correspondiente
+En el apartado de derechos reservados poner el nombre completo de los participante 
+El día 20 de febrero se revisará el 50% de avance y el otro 50% para el día 24 de febrero
+RECURSOS:https://necolas.github.io/normalize.css/
+https://tablericons.com/
+https://fonts.google.com/
+https://responsively.app/
+https://www.netlify.com/
